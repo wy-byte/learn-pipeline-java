@@ -11,11 +11,11 @@
     <distributionManagement>
         <snapshotRepository>
             <id>github</id>
-            <url>https://maven.pkg.github.com/devops-ws/learn-pipeline-java</url>
+            <url>http://nexus.inshealth.cn/repository/maven-public/</url>
         </snapshotRepository>
         <repository>
             <id>github</id>
-            <url>https://maven.pkg.github.com/devops-ws/learn-pipeline-java</url>
+            <url>http://nexus.inshealth.cn/repository/maven-public/</url>
         </repository>
     </distributionManagement>
 
