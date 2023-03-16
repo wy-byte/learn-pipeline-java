@@ -10,11 +10,11 @@
 
     <distributionManagement>
         <snapshotRepository>
-            <id>github</id>
+            <id>nexus</id>
             <url>http://nexus.inshealth.cn/repository/maven-public/</url>
         </snapshotRepository>
         <repository>
-            <id>github</id>
+            <id>nexus</id>
             <url>http://nexus.inshealth.cn/repository/maven-public/</url>
         </repository>
     </distributionManagement>
