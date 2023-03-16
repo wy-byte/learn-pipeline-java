@@ -11,11 +11,11 @@
     <distributionManagement>
         <snapshotRepository>
             <id>nexus</id>
-            <url>http://nexus.inshealth.cn/repository/maven-public/</url>
+            <url>http://nexus.inshealth.cn/repository/maven-snapshots/</url>
         </snapshotRepository>
         <repository>
             <id>nexus</id>
-            <url>http://nexus.inshealth.cn/repository/maven-public/</url>
+            <url>http://nexus.inshealth.cn/repository/maven-release/</url>
         </repository>
     </distributionManagement>
 
